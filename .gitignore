@@ -1,0 +1,5 @@
+device/experiments/*/.pio
+device/experiments/*/.vscode/.browse.c_cpp.db*
+device/experiments/*/.vscode/c_cpp_properties.json
+device/experiments/*/.vscode/launch.json
+device/experiments/*/.vscode/ipch
